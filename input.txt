@@ -1,0 +1,4 @@
+void main(){
+    int x = "teste";
+    print(x);
+}
