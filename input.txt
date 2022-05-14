@@ -1,4 +1,1 @@
-void main(){
-    int x = "teste";
-    print(x);
-}
+x <= "10 10";
